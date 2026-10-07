@@ -28,6 +28,11 @@
 
 > Поставь скилл из https://github.com/Galina-neiro/video-ru в папку ~/.claude/skills/video-ru (чтобы он работал во всех папках), потом пройди раздел «Первый запуск» из его SKILL.md и скажи, чего у меня не хватает.
 
+Или скачайте архив **[video-ru.zip](https://github.com/Galina-neiro/video-ru/releases/latest/download/video-ru.zip)**, положите в любую папку,
+откройте её в Claude Code и напишите:
+
+> Распакуй архив video-ru.zip в папку ~/.claude/skills (чтобы скилл работал во всех папках), потом пройди раздел «Первый запуск» из его SKILL.md и скажи, чего у меня не хватает.
+
 После установки перезапустите Claude Code, чтобы он увидел новый скилл.
 
 ## Как пользоваться
